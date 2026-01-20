@@ -4,4 +4,46 @@ Lista de comandos
 
 a = puxar o link junto com href
 
-style="color" = puxa um estilo para o texto especifico
+style="color" = puxa um estilo para o texto especifico, pode usar comandos que geralmente
+sao atribuidos ao css(arquivo)
+
+<br> = usado para quebra de linhas 
+
+<pre> Define o texto em um pre formato
+
+<b> - Texto em negrito
+<strong> - Texto importante
+<i> - Texto itálico
+<em> - Texto enfatizado
+<mark> - Texto marcado
+<small> - Texto menor
+<del> - Texto excluído
+<ins> - Texto inserido
+<sub> - Texto subíndice
+<sup> - Texto em 
+
+float = consegue trocar de local a img
+
+criar listas 
+
+inicia com <ol ou ul>
+
+e usa <li> para listar
+
+<header> - Define um cabeçalho para um documento ou seção
+<nav> - Define um conjunto de links de navegação
+<section> - Define uma seção em um documento
+<article> - Define conteúdo independente e autônomo
+<aside> - Define conteúdo além do conteúdo (como uma barra lateral)
+<footer> - Define um rodapé para um documento ou seção
+<details> - Define detalhes adicionais que o usuário pode abrir e fechar sob demanda
+<summary> - Define um cabeçalho para o elemento<details>
+
+
+<input type="text">	Exibe um campo de entrada de texto de linha única
+<input type="radio">	Exibe um botão de acesso (para selecionar uma das muitas opções)
+<input type="checkbox">	Exibe uma caixa de seleção (para selecionar zero ou mais de muitas opções)
+<input type="submit">	Exibe um botão de envio (para enviar o formulário)
+<input type="button">	Exibe um botão clicável
+
+
