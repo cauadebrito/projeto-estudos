@@ -46,4 +46,11 @@ e usa <li> para listar
 <input type="submit">	Exibe um botão de envio (para enviar o formulário)
 <input type="button">	Exibe um botão clicável
 
+<form>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> I have a bike</label><br>
+
+neste exemplo o input cria uma caixa clicável usa o id pra identificar. O label puxa pelo
+id e poe do lado dele o texto
+
 
